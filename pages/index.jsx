@@ -23,7 +23,7 @@ export default function Index() {
             }
           >
             <a className="flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white">
-              MusicMaker'ı Davet Et
+              NexoraMaker'ı Davet Et
             </a>
           </Link>
         </div>
@@ -46,7 +46,7 @@ export default function Index() {
         <div className="col-span-4">
           <p
             className="text-white text-4xl font-bold"
-            dangerouslySetInnerHTML={{ __html: "MusicMaker" }}
+            dangerouslySetInnerHTML={{ __html: "NexoraMaker" }}
           />
           <p
             className="text-white text-md font-medium text-gray-500/75"
@@ -60,7 +60,7 @@ export default function Index() {
             className="mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"
           >
             <i className="fab fa-discord mr-2" />
-            MusicMaker'ı Davet Et
+            NexoraMaker'ı Davet Et
           </a>
         </div>
 
@@ -73,7 +73,7 @@ export default function Index() {
               </p>
               <p className="text-gray-500 line-clamp-4">
                 Sunucunuza özel hızlı ve özelleştirilebilir ayarlarla
-                MusicMaker size müziğin keyfini sonuna kadar sunar.
+                NexoraMaker size müziğin keyfini sonuna kadar sunar.
               </p>
             </div>
           </div>
@@ -127,7 +127,7 @@ export default function Index() {
             />
             <p className="text-3xl text-white font-semibold">En İyi Botun</p>
             <p className="text-md text-white font-medium text-gray-500 line-clamp-5">
-              En iyi ve en güncel bot olan MusicMaker ile en iyi partileri
+              En iyi ve en güncel bot olan NexoraMaker ile en iyi partileri
               vermeye hazır mısınız?
             </p>
           </div>
